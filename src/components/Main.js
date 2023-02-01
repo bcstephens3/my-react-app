@@ -9,6 +9,8 @@ export default function Main()
                 <li>Bright</li>
                 <li>Funny fun fun</li>
             </ul>
+            
+
         </main>
     )
 }

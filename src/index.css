@@ -61,6 +61,10 @@ nav{
 
 main{
   color: white;
+  background-image: url("./halfreactlogo.png");
+  background-repeat: no-repeat;
+  background-position: right 70%;
+
 }
 
 .main-list > li{
